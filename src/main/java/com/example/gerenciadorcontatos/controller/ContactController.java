@@ -1,5 +1,5 @@
 package com.example.gerenciadorcontatos.controller;
-
+// teste
 import com.example.gerenciadorcontatos.model.Contact;
 import com.example.gerenciadorcontatos.service.ContactService;
 import org.springframework.http.ResponseEntity; // <-- IMPORTAÇÃO ADICIONADA
